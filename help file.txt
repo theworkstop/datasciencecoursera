@@ -14,4 +14,64 @@ SEARCH stackoverflow R = [r]
 
 Google = [Data type] R package
 
+---COMMAND LINE INTERFACE-----
+
+Root dir = /
+
+Home dir = ~
+
+CLI (Command Line Interface) recipy = command flags arguments
+
+Command clear = clear
+
+Get folders = ls -- Flags -a for hidden folders -a1 hidden, unhidden folders
+
+Up or down = cd.. -- cd "folder" f.eks. cd Documents
+
+Make folder = mkdir
+
+Create file = touch -- touch test_file
+
+Copy file = cp f.eks. cp test_file Documents 
+
+Copy folder = cp -r f.eks. cp -r Documents Documents2
+
+Remove file and folder = rm -- rm -r
+
+Movefile = mv f.eks. mv test_file Documents
+
+Rename file = mv f.eks. mv test_file new_file_name
+
+Print = echo F.eks. echo Helle world!
+
+Get date = date
+
+---GIT-----
+
+config = git config --global user.name "name" / user.email "email"
+
+get git config = git config --list
+
+Add new file = git add . -- adds all files
+
+Update files = git add -u 
+
+Add and update = git add -A
+
+Commit files to local repo = git commit -m "message"
+
+Commit files to remove repo = git push
+
+Create branch = git checkout -b branchname
+
+Check which branch ur on = git branch
+
+Get back to master branch = git checkout master
+
+1
+
+
+
+
+
  

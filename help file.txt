@@ -1,0 +1,17 @@
+https://class.coursera.org/datascitoolbox-007/lecture
+
+R functions
+
+access help file = ?rnorm
+
+Search help file = help.search("rnorm")
+
+Get function = args("rnorm")
+
+See code = type function without brackets, rnorm
+
+SEARCH stackoverflow R = [r]
+
+Google = [Data type] R package
+
+ 

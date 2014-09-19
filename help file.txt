@@ -68,10 +68,38 @@ Check which branch ur on = git branch
 
 Get back to master branch = git checkout master
 
-1
+----MARKDOWN---
 
-3
+extension = .md
 
+## This is a second heading
+### This is a tertiary heading
 
+Lists, unordered =      * 1 
+			* 2
+			* 3
 
+-----R-----
+
+CRAN
+install packages = install.packages("Package navne")
+install multiple packages = install.packages(c("package","package2","Package3"))
+
+BioConductor
+First
+source("http://bioconductor.org/biocLite.R")
+biocLite()
+
+Then
+biocLite(c("package", "package2"))
+
+Loading packages = library(ggplot2) NO! ""
+
+Search packages = search()
+
+--------STATISTICS---------
+
+Confounding = The variable that will confound the correlations or percieved relationship between two other variables. The defining variable. 
+
+Prediction vs. inference = Pay attention to the relative size of effects when talking prediction vs. inference. Prediction need a larger size of effect.
  
